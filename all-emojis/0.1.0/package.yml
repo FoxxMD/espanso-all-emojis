@@ -14,13 +14,9 @@ matches:
     replace: "\U0001F522"
   - trigger: ':grinning:'
     replace: "\U0001F600"
-  - trigger: ':smile:'
-    replace: "\U0001F600"
   - trigger: ':happy:'
     replace: "\U0001F600"
   - trigger: ':smiley:'
-    replace: "\U0001F603"
-  - trigger: ':joy:'
     replace: "\U0001F603"
   - trigger: ':haha:'
     replace: "\U0001F603"
@@ -53,14 +49,10 @@ matches:
   - trigger: ':relaxed:'
     replace: ☺️
   - trigger: ':blush:'
-    replace: ☺️
-  - trigger: ':blush:'
     replace: "\U0001F60A"
   - trigger: ':proud:'
     replace: "\U0001F60A"
   - trigger: ':innocent:'
-    replace: "\U0001F607"
-  - trigger: ':angel:'
     replace: "\U0001F607"
   - trigger: ':slightly smiling face:'
     replace: "\U0001F642"
@@ -90,8 +82,6 @@ matches:
     replace: "\U0001F61A"
   - trigger: ':yum:'
     replace: "\U0001F60B"
-  - trigger: ':tongue:'
-    replace: "\U0001F60B"
   - trigger: ':lick:'
     replace: "\U0001F60B"
   - trigger: ':stuck out tongue winking eye:'
@@ -117,8 +107,6 @@ matches:
   - trigger: ':glasses:'
     replace: "\U0001F913"
   - trigger: ':sunglasses:'
-    replace: "\U0001F60E"
-  - trigger: ':cool:'
     replace: "\U0001F60E"
   - trigger: ':clown face:'
     replace: "\U0001F921"
@@ -180,8 +168,6 @@ matches:
     replace: "\U0001F621"
   - trigger: ':no mouth:'
     replace: "\U0001F636"
-  - trigger: ':mute:'
-    replace: "\U0001F636"
   - trigger: ':silence:'
     replace: "\U0001F636"
   - trigger: ':neutral face:'
@@ -238,8 +224,6 @@ matches:
     replace: "\U0001F625"
   - trigger: ':phew:'
     replace: "\U0001F625"
-  - trigger: ':sweat:'
-    replace: "\U0001F625"
   - trigger: ':drooling face:'
     replace: "\U0001F924"
   - trigger: ':sob:'
@@ -251,8 +235,6 @@ matches:
   - trigger: ':sleepy:'
     replace: "\U0001F62A"
   - trigger: ':sleeping:'
-    replace: "\U0001F634"
-  - trigger: ':zzz:'
     replace: "\U0001F634"
   - trigger: ':roll eyes:'
     replace: "\U0001F644"
@@ -308,11 +290,11 @@ matches:
     replace: "\U0001F47A"
   - trigger: ':hankey:'
     replace: "\U0001F4A9"
-  - trigger: ':crap:'
-    replace: "\U0001F4A9"
   - trigger: ':poop:'
     replace: "\U0001F4A9"
   - trigger: ':shit:'
+    replace: "\U0001F4A9"
+  - trigger: ':crap:'
     replace: "\U0001F4A9"
   - trigger: ':hankey:'
     replace: "\U0001F4A9"
@@ -392,31 +374,29 @@ matches:
     replace: "\U0001F91D"
   - trigger: ':+1:'
     replace: "\U0001F44D"
-  - trigger: ':approve:'
-    replace: "\U0001F44D"
-  - trigger: ':ok:'
-    replace: "\U0001F44D"
   - trigger: ':thumbsup:'
+    replace: "\U0001F44D"
+  - trigger: ':approve:'
     replace: "\U0001F44D"
   - trigger: ':+1:'
     replace: "\U0001F44D"
   - trigger: ':-1:'
     replace: "\U0001F44E"
+  - trigger: ':thumbsdown:'
+    replace: "\U0001F44E"
   - trigger: ':disapprove:'
     replace: "\U0001F44E"
   - trigger: ':bury:'
-    replace: "\U0001F44E"
-  - trigger: ':thumbsdown:'
     replace: "\U0001F44E"
   - trigger: ':-1:'
     replace: "\U0001F44E"
   - trigger: ':fist oncoming:'
     replace: "\U0001F44A"
-  - trigger: ':attack:'
-    replace: "\U0001F44A"
   - trigger: ':facepunch:'
     replace: "\U0001F44A"
   - trigger: ':punch:'
+    replace: "\U0001F44A"
+  - trigger: ':attack:'
     replace: "\U0001F44A"
   - trigger: ':fist oncoming:'
     replace: "\U0001F44A"
@@ -424,9 +404,9 @@ matches:
     replace: "\U0001F44A"
   - trigger: ':fist raised:'
     replace: ✊
-  - trigger: ':power:'
-    replace: ✊
   - trigger: ':fist:'
+    replace: ✊
+  - trigger: ':power:'
     replace: ✊
   - trigger: ':fist raised:'
     replace: ✊
@@ -462,11 +442,11 @@ matches:
     replace: ☝️
   - trigger: ':hand:'
     replace: ✋
+  - trigger: ':raised hand:'
+    replace: ✋
   - trigger: ':highfive:'
     replace: ✋
   - trigger: ':stop:'
-    replace: ✋
-  - trigger: ':raised hand:'
     replace: ✋
   - trigger: ':hand:'
     replace: ✋
@@ -514,8 +494,6 @@ matches:
     replace: "\U0001F485"
   - trigger: ':ring:'
     replace: "\U0001F48D"
-  - trigger: ':wedding:'
-    replace: "\U0001F48D"
   - trigger: ':marriage:'
     replace: "\U0001F48D"
   - trigger: ':engaged:'
@@ -536,8 +514,6 @@ matches:
     replace: "\U0001F442"
   - trigger: ':hear:'
     replace: "\U0001F442"
-  - trigger: ':sound:'
-    replace: "\U0001F442"
   - trigger: ':listen:'
     replace: "\U0001F442"
   - trigger: ':nose:'
@@ -545,8 +521,6 @@ matches:
   - trigger: ':smell:'
     replace: "\U0001F443"
   - trigger: ':footprints:'
-    replace: "\U0001F463"
-  - trigger: ':feet:'
     replace: "\U0001F463"
   - trigger: ':tracks:'
     replace: "\U0001F463"
@@ -557,8 +531,6 @@ matches:
   - trigger: ':look:'
     replace: "\U0001F440"
   - trigger: ':see:'
-    replace: "\U0001F440"
-  - trigger: ':watch:'
     replace: "\U0001F440"
   - trigger: ':speaking head:'
     replace: "\U0001F5E3"
@@ -618,11 +590,11 @@ matches:
     replace: "\U0001F46E‍♀"
   - trigger: ':policeman:'
     replace: "\U0001F46E"
+  - trigger: ':cop:'
+    replace: "\U0001F46E"
   - trigger: ':police:'
     replace: "\U0001F46E"
   - trigger: ':law:'
-    replace: "\U0001F46E"
-  - trigger: ':cop:'
     replace: "\U0001F46E"
   - trigger: ':policeman:'
     replace: "\U0001F46E"
@@ -630,9 +602,9 @@ matches:
     replace: "\U0001F477‍♀"
   - trigger: ':construction worker man:'
     replace: "\U0001F477"
-  - trigger: ':helmet:'
-    replace: "\U0001F477"
   - trigger: ':construction worker:'
+    replace: "\U0001F477"
+  - trigger: ':helmet:'
     replace: "\U0001F477"
   - trigger: ':construction worker man:'
     replace: "\U0001F477"
@@ -681,8 +653,6 @@ matches:
   - trigger: ':man singer:'
     replace: "\U0001F468‍\U0001F3A4"
   - trigger: ':woman teacher:'
-    replace: "\U0001F469‍\U0001F3EB"
-  - trigger: ':school:'
     replace: "\U0001F469‍\U0001F3EB"
   - trigger: ':professor:'
     replace: "\U0001F469‍\U0001F3EB"
@@ -743,16 +713,12 @@ matches:
   - trigger: ':mrs claus:'
     replace: "\U0001F936"
   - trigger: ':santa:'
-    replace: "\U0001F936"
-  - trigger: ':santa:'
     replace: "\U0001F385"
   - trigger: ':christmas:'
     replace: "\U0001F385"
   - trigger: ':princess:'
     replace: "\U0001F478"
   - trigger: ':blonde:'
-    replace: "\U0001F478"
-  - trigger: ':crown:'
     replace: "\U0001F478"
   - trigger: ':royal:'
     replace: "\U0001F478"
@@ -792,19 +758,19 @@ matches:
     replace: "\U0001F481"
   - trigger: ':tipping hand man:'
     replace: "\U0001F481‍♂"
-  - trigger: ':information:'
-    replace: "\U0001F481‍♂"
   - trigger: ':sassy man:'
+    replace: "\U0001F481‍♂"
+  - trigger: ':information:'
     replace: "\U0001F481‍♂"
   - trigger: ':tipping hand man:'
     replace: "\U0001F481‍♂"
   - trigger: ':no good woman:'
     replace: "\U0001F645"
-  - trigger: ':halt:'
-    replace: "\U0001F645"
   - trigger: ':no good:'
     replace: "\U0001F645"
   - trigger: ':ng woman:'
+    replace: "\U0001F645"
+  - trigger: ':halt:'
     replace: "\U0001F645"
   - trigger: ':no good woman:'
     replace: "\U0001F645"
@@ -862,9 +828,9 @@ matches:
     replace: "\U0001F487‍♂"
   - trigger: ':massage woman:'
     replace: "\U0001F486"
-  - trigger: ':spa:'
-    replace: "\U0001F486"
   - trigger: ':massage:'
+    replace: "\U0001F486"
+  - trigger: ':spa:'
     replace: "\U0001F486"
   - trigger: ':massage woman:'
     replace: "\U0001F486"
@@ -874,15 +840,13 @@ matches:
     replace: "\U0001F574"
   - trigger: ':dancer:'
     replace: "\U0001F483"
-  - trigger: ':dress:'
-    replace: "\U0001F483"
   - trigger: ':man dancing:'
     replace: "\U0001F57A"
   - trigger: ':dancing women:'
     replace: "\U0001F46F"
-  - trigger: ':bunny:'
-    replace: "\U0001F46F"
   - trigger: ':dancers:'
+    replace: "\U0001F46F"
+  - trigger: ':bunny:'
     replace: "\U0001F46F"
   - trigger: ':dancing women:'
     replace: "\U0001F46F"
@@ -914,8 +878,6 @@ matches:
     replace: "\U0001F3C3"
   - trigger: ':couple:'
     replace: "\U0001F46B"
-  - trigger: ':date:'
-    replace: "\U0001F46B"
   - trigger: ':two women holding hands:'
     replace: "\U0001F46D"
   - trigger: ':two men holding hands:'
@@ -938,11 +900,11 @@ matches:
     replace: "\U0001F468‍❤️‍\U0001F48B‍\U0001F468"
   - trigger: ':family man woman boy:'
     replace: "\U0001F46A"
+  - trigger: ':family:'
+    replace: "\U0001F46A"
   - trigger: ':home:'
     replace: "\U0001F46A"
   - trigger: ':parents:'
-    replace: "\U0001F46A"
-  - trigger: ':family:'
     replace: "\U0001F46A"
   - trigger: ':family man woman boy:'
     replace: "\U0001F46A"
@@ -1120,8 +1082,6 @@ matches:
     replace: "\U0001F435"
   - trigger: ':see no evil:'
     replace: "\U0001F648"
-  - trigger: ':monkey:'
-    replace: "\U0001F648"
   - trigger: ':blind:'
     replace: "\U0001F648"
   - trigger: ':ignore:'
@@ -1238,8 +1198,6 @@ matches:
     replace: "\U0001F98C"
   - trigger: ':dromedary camel:'
     replace: "\U0001F42A"
-  - trigger: ':desert:'
-    replace: "\U0001F42A"
   - trigger: ':camel:'
     replace: "\U0001F42B"
   - trigger: ':elephant:'
@@ -1328,8 +1286,6 @@ matches:
     replace: "\U0001F342"
   - trigger: ':maple leaf:'
     replace: "\U0001F341"
-  - trigger: ':canada:'
-    replace: "\U0001F341"
   - trigger: ':mushroom:'
     replace: "\U0001F344"
   - trigger: ':ear of rice:'
@@ -1407,8 +1363,6 @@ matches:
   - trigger: ':dizzy:'
     replace: "\U0001F4AB"
   - trigger: ':star:'
-    replace: "\U0001F4AB"
-  - trigger: ':star:'
     replace: ⭐️
   - trigger: ':star2:'
     replace: "\U0001F31F"
@@ -1428,9 +1382,9 @@ matches:
     replace: "\U0001F525"
   - trigger: ':boom:'
     replace: "\U0001F4A5"
-  - trigger: ':explode:'
-    replace: "\U0001F4A5"
   - trigger: ':collision:'
+    replace: "\U0001F4A5"
+  - trigger: ':explode:'
     replace: "\U0001F4A5"
   - trigger: ':boom:'
     replace: "\U0001F4A5"
@@ -1441,8 +1395,6 @@ matches:
   - trigger: ':sun behind small cloud:'
     replace: "\U0001F324"
   - trigger: ':partly sunny:'
-    replace: ⛅️
-  - trigger: ':cloud:'
     replace: ⛅️
   - trigger: ':sun behind large cloud:'
     replace: "\U0001F325"
@@ -1611,8 +1563,6 @@ matches:
   - trigger: ':shallow pan of food:'
     replace: "\U0001F958"
   - trigger: ':paella:'
-    replace: "\U0001F958"
-  - trigger: ':curry:'
     replace: "\U0001F958"
   - trigger: ':spaghetti:'
     replace: "\U0001F35D"
@@ -2068,8 +2018,6 @@ matches:
     replace: "\U0001F6EC"
   - trigger: ':rocket:'
     replace: "\U0001F680"
-  - trigger: ':ship:'
-    replace: "\U0001F680"
   - trigger: ':launch:'
     replace: "\U0001F680"
   - trigger: ':artificial satellite:'
@@ -2141,8 +2089,6 @@ matches:
   - trigger: ':carousel horse:'
     replace: "\U0001F3A0"
   - trigger: ':parasol on ground:'
-    replace: ⛱
-  - trigger: ':beach umbrella:'
     replace: ⛱
   - trigger: ':beach umbrella:'
     replace: "\U0001F3D6"
@@ -2315,8 +2261,6 @@ matches:
   - trigger: ':telephone receiver:'
     replace: "\U0001F4DE"
   - trigger: ':phone:'
-    replace: "\U0001F4DE"
-  - trigger: ':phone:'
     replace: ☎️
   - trigger: ':telephone:'
     replace: ☎️
@@ -2379,8 +2323,6 @@ matches:
   - trigger: ':money with wings:'
     replace: "\U0001F4B8"
   - trigger: ':dollar:'
-    replace: "\U0001F4B8"
-  - trigger: ':dollar:'
     replace: "\U0001F4B5"
   - trigger: ':money:'
     replace: "\U0001F4B5"
@@ -2432,11 +2374,11 @@ matches:
     replace: "\U0001F4A3"
   - trigger: ':hocho:'
     replace: "\U0001F52A"
+  - trigger: ':knife:'
+    replace: "\U0001F52A"
   - trigger: ':cut:'
     replace: "\U0001F52A"
   - trigger: ':chop:'
-    replace: "\U0001F52A"
-  - trigger: ':knife:'
     replace: "\U0001F52A"
   - trigger: ':hocho:'
     replace: "\U0001F52A"
@@ -2494,13 +2436,9 @@ matches:
     replace: "\U0001F321"
   - trigger: ':toilet:'
     replace: "\U0001F6BD"
-  - trigger: ':wc:'
-    replace: "\U0001F6BD"
   - trigger: ':potable water:'
     replace: "\U0001F6B0"
   - trigger: ':shower:'
-    replace: "\U0001F6BF"
-  - trigger: ':bath:'
     replace: "\U0001F6BF"
   - trigger: ':bathtub:'
     replace: "\U0001F6C1"
@@ -2509,8 +2447,6 @@ matches:
   - trigger: ':bellhop bell:'
     replace: "\U0001F6CE"
   - trigger: ':key:'
-    replace: "\U0001F511"
-  - trigger: ':lock:'
     replace: "\U0001F511"
   - trigger: ':password:'
     replace: "\U0001F511"
@@ -2558,9 +2494,9 @@ matches:
     replace: "\U0001F390"
   - trigger: ':email:'
     replace: ✉️
-  - trigger: ':letter:'
-    replace: ✉️
   - trigger: ':envelope:'
+    replace: ✉️
+  - trigger: ':letter:'
     replace: ✉️
   - trigger: ':email:'
     replace: ✉️
@@ -2708,9 +2644,9 @@ matches:
     replace: "\U0001F58D"
   - trigger: ':memo:'
     replace: "\U0001F4DD"
-  - trigger: ':note:'
-    replace: "\U0001F4DD"
   - trigger: ':pencil:'
+    replace: "\U0001F4DD"
+  - trigger: ':note:'
     replace: "\U0001F4DD"
   - trigger: ':memo:'
     replace: "\U0001F4DD"
@@ -2916,9 +2852,9 @@ matches:
     replace: "\U0001F6AD"
   - trigger: ':exclamation:'
     replace: ❗️
-  - trigger: ':bang:'
-    replace: ❗️
   - trigger: ':heavy exclamation mark:'
+    replace: ❗️
+  - trigger: ':bang:'
     replace: ❗️
   - trigger: ':exclamation:'
     replace: ❗️
@@ -2981,8 +2917,6 @@ matches:
   - trigger: ':atm:'
     replace: "\U0001F3E7"
   - trigger: ':wc:'
-    replace: "\U0001F6BE"
-  - trigger: ':restroom:'
     replace: "\U0001F6BE"
   - trigger: ':wheelchair:'
     replace: ♿️
@@ -3145,8 +3079,6 @@ matches:
   - trigger: ':shuffle:'
     replace: "\U0001F500"
   - trigger: ':repeat:'
-    replace: "\U0001F501"
-  - trigger: ':loop:'
     replace: "\U0001F501"
   - trigger: ':repeat one:'
     replace: "\U0001F502"
@@ -3850,9 +3782,9 @@ matches:
     replace: "\U0001F1E6\U0001F1EA"
   - trigger: ':gb:'
     replace: "\U0001F1EC\U0001F1E7"
-  - trigger: ':british:'
-    replace: "\U0001F1EC\U0001F1E7"
   - trigger: ':uk:'
+    replace: "\U0001F1EC\U0001F1E7"
+  - trigger: ':british:'
     replace: "\U0001F1EC\U0001F1E7"
   - trigger: ':gb:'
     replace: "\U0001F1EC\U0001F1E7"
